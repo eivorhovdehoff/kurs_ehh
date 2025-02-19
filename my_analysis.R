@@ -11,3 +11,6 @@ print(x)
 # This is better
 x  <- median(vals)
 print(x)
+
+# Now I'm also doing a change in main
+print("Do you think a pirate lives in there??")
