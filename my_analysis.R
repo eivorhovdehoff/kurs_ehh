@@ -11,3 +11,7 @@ print(x)
 # This is better
 x  <- median(vals)
 print(x)
+
+# I think we should just print all values
+
+print(vals)
